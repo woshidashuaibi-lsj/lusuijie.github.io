@@ -25,10 +25,10 @@ params:
     comments:
     giscus:
       enable: true
-      repo: guangzhengli/hugo-ladder-exampleSite
-      repo_id: R_kgDOHyVOjg
+      repo: woshidashuaibi-lsj/lusuijie
+      repo_id: R_kgDOLUkL3w
       category: Announcements
-      category_id: DIC_kwDOHyVOjs4CQsH7
+      category_id: DIC_kwDOLUkL384CdVmA
       mapping: pathname
       position: top
       lang: en # pick a language from https://github.com/giscus/giscus/tree/main/locales
@@ -75,7 +75,7 @@ languages:
     info: 帮助开发者构建一个免费并且漂亮的博客网站，记录自己的思考并且提高自己的影响力
     guestbook:
       title: 留言板
-      description: 您的评论，会让该网站更精彩！
+      description: 到此一游
     menu:
       main:
         - name: 文章
