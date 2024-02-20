@@ -65,6 +65,9 @@ languages:
         - name: Art
           url: /art
           weight: 2
+        - name: Tags
+          url: /tags
+          weight: 3
         - name: Archive
           url: /archives
           weight: 4
@@ -81,7 +84,10 @@ languages:
         - name: 文章
           url: /blog
           weight: 1
-        - name: 时间线
+        - name: 分类
+          url: /tags
+          weight: 2
+        - name: 历史文章
           url: /archives
           weight: 3
         - name: 留言板
