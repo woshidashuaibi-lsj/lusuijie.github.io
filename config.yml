@@ -21,6 +21,7 @@ params:
     enableMultiLang: false # 语言配置先关了
   darkModeTheme: data-dark-mode
   #darkModeTheme: icy-dark-mode
+  
   comments:
     comments:
     # 评论区配置
