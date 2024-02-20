@@ -3,7 +3,7 @@ title: How to create your blog by hugo ladder in 30min
 date: 2022-08-14T16:47:12+08:00
 tags: ["hugo", "ladder", "Tutorial", "GitHub Pages"]
 series: ["how to create your blog"]
-featured: true
+featured: false
 ---
 
 This article is the second in a series on how to create you blog by hugo ladder for free, including using the `hugo ladder` configuration and integrate comments and analytics features, etc.

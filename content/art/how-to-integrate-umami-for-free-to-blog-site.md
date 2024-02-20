@@ -5,7 +5,7 @@ tags: ["hugo", "ladder", "Tutorial", "analytics", "umami"]
 series: ["how to create your blog"]
 image: "https://cdn.jsdelivr.net/gh/guangzhengli/PicURL@master/uPic/OZcU7U.png"
 desc: "This article is about how to integrate umami website analytics to your website for free."
-featured: true
+featured: false
 ---
 
 <!--more-->
