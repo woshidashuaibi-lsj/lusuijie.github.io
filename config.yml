@@ -27,7 +27,7 @@ params:
     # 评论区配置
     giscus:
       enable: true
-      repo: woshidashuaibi-lsj/lusuijie
+      repo: woshidashuaibi-lsj/lusuijie.github.io
       repo_id: R_kgDOLUkL3w
       category: Announcements
       category_id: DIC_kwDOLUkL384CdVmA
