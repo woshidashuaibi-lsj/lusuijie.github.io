@@ -3,7 +3,7 @@ title: lusuijie
 theme: hugo-theme-ladder
 license: MIT
 licenselink: 'https://github.com/guangzhengli/hugo-theme-ladder/blob/6e218969f621e0cfc574a2a1b0bb4b8c9fa40625/LICENSE'
-description: '即使明天是世界末日，我们一样穿着得体'
+description: '即使明天是世界末日，今天我们一样穿着得体'
 homepage: 'https://woshidashuaibi-lsj.github.io'
 defaultContentLanguage: 'zh'
 googleAnalytics: G-xxx
@@ -12,7 +12,7 @@ params:
   brand: 主页
   avatarURL: /images/avatar.png
   author: 卢穗杰
-  authorDescription: 即使明天是世界末日，我们一样穿着得体
+  authorDescription: 即使明天是世界末日，今天我们一样穿着得体
   info: 狂人日记
   favicon: /images/avatar.png
   options:
